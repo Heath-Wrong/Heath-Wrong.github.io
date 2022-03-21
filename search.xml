@@ -1,23 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/03/19/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>We Choose to Go to the Moon</title>
     <url>/2022/03/20/We-Choose-to-Go-to-the-Moon/</url>
-    <content><![CDATA[<h3 id="英文原文"><a href="#英文原文" class="headerlink" title="英文原文"></a>英文原文</h3><p><strong>We Choose to Go to the Moon</strong></p>
+    <content><![CDATA[<h3 id="英文原文"><a class="markdownIt-Anchor" href="#英文原文"></a> 英文原文</h3>
+<p><strong>We Choose to Go to the Moon</strong></p>
 <p><em>President Pitzer, Mr. Vice President, Governor, Congressman Thomas, Senator Wiley, and Congressman Miller, Mr. Webb, Mr. Bell, scientists, distinguished guests, and ladies and gentlemen:</em></p>
 <p>I appreciate your president having made me an honorary visiting professor, and I will assure you that my first lecture will be very brief.</p>
 <p>I am delighted to be here and I’m particularly delighted to be here on this occasion.</p>
@@ -49,7 +36,8 @@
 <p>Many years ago the great British explorer George Mallory, who was to die on Mount Everest, was asked why did he want to climb it. He said, “Because it is there.”</p>
 <p>Well, space is there, and we’re going to climb it, and the moon and the planets are there, and new hopes for knowledge and peace are there. And, therefore, as we set sail we ask God’s blessing on the most hazardous and dangerous and greatest adventure on which man has ever embarked.</p>
 <p>Thank you.</p>
-<h3 id="中英双语"><a href="#中英双语" class="headerlink" title="中英双语"></a>中英双语</h3><p><strong>We Choose to Go to the Moon</strong></p>
+<h3 id="中英双语"><a class="markdownIt-Anchor" href="#中英双语"></a> 中英双语</h3>
+<p><strong>We Choose to Go to the Moon</strong></p>
 <p><em>John Fitzgerald Kennedy</em></p>
 <p><em>September 12, 1962</em></p>
 <p><em>Rice Stadium</em></p>
@@ -127,7 +115,7 @@
 </blockquote>
 <p>但休斯敦市，德克萨斯州与美利坚合众国不是由那些止步不前，安于现状，甘愿落后的人建立的。</p>
 <blockquote>
-<p>This country was conquered by those who moved forward—and so will space.</p>
+<p>This country was conquered by those who moved forward–and so will space.</p>
 </blockquote>
 <p>这个国家是由那些不断前进的人所征服的，太空也是如此。</p>
 <blockquote>
@@ -147,7 +135,7 @@
 </blockquote>
 <p>我们的先辈使这个国家掀起了工业革命的第一波浪潮，掀起了现代发明的第一波浪潮，掀起了核能技术的第一波浪潮。而我们这一代绝不会甘愿在即将到来的太空时代的浪潮中倒下。</p>
 <blockquote>
-<p>We mean to be a part of it—we mean to lead it.</p>
+<p>We mean to be a part of it–we mean to lead it.</p>
 </blockquote>
 <p>我们要加入其中――我们要领先世界。</p>
 <blockquote>
@@ -315,15 +303,15 @@
 </blockquote>
 <p>今年的航天预算是1961年元月的三倍，比过去八年的总和还要多。</p>
 <blockquote>
-<p>That budget now stands at $5,400 million a year—a staggering sum, though somewhat less than we pay for cigarettes and cigars every year.</p>
+<p>That budget now stands at $5,400 million a year–a staggering sum, though somewhat less than we pay for cigarettes and cigars every year.</p>
 </blockquote>
 <p>预算现在保持在每年54亿美元――一个令人震惊的数目，尽管还稍小于我们在香烟和雪茄上所消耗的年消费额。</p>
 <blockquote>
-<p>Space expenditures will soon rise some more, from 40 cents per person per week to more than 50 cents a week for every man, woman and child in the United States, for we have given this program a high national priority—even though I realize that this is in some measure an act of faith and vision, for we do not now know what benefits await us.</p>
+<p>Space expenditures will soon rise some more, from 40 cents per person per week to more than 50 cents a week for every man, woman and child in the United States, for we have given this program a high national priority–even though I realize that this is in some measure an act of faith and vision, for we do not now know what benefits await us.</p>
 </blockquote>
 <p>航天支出很快就会从全国人均每周40美分上升到每周50美分，因为我们赋予了这个计划极高的国家优先权――即使我认识到，目前这个目标从某种程度上来说还停留在信念与梦想中，因为我们无从知晓人们将会从中获得怎样的收益。</p>
 <blockquote>
-<p>But if I were to say, my fellow citizens, that we shall send to the moon, 240,000 miles away from the control station in Houston, a giant rocket more than 300 feet tall, the length of this football field, made of new metal alloys, some of which have not yet been invented, capable of standing heat and stresses several times more than have ever been experienced, fitted together with a precision better than the finest watch, carrying all the equipment needed for propulsion, guidance, control, communications, food and survival, on an untried mission, to an unknown celestial body, and then return it safely to earth, re-entering the atmosphere at speeds of over 25,000 miles per hour, causing heat about half that of the temperature of the sun—almost as hot as it is here today—and do all this, and do it right, and do it first before this decade is out—then we must be bold.</p>
+<p>But if I were to say, my fellow citizens, that we shall send to the moon, 240,000 miles away from the control station in Houston, a giant rocket more than 300 feet tall, the length of this football field, made of new metal alloys, some of which have not yet been invented, capable of standing heat and stresses several times more than have ever been experienced, fitted together with a precision better than the finest watch, carrying all the equipment needed for propulsion, guidance, control, communications, food and survival, on an untried mission, to an unknown celestial body, and then return it safely to earth, re-entering the atmosphere at speeds of over 25,000 miles per hour, causing heat about half that of the temperature of the sun–almost as hot as it is here today–and do all this, and do it right, and do it first before this decade is out–then we must be bold.</p>
 </blockquote>
 <p>但是我想说，我的同胞们。让我们向那个距离休斯敦控制中心远隔24万英里的月球发射一枚超过 300 英尺高，与这个橄榄球场长度相当的火箭。这枚火箭采用了新型合金材料，其耐热性与抗压性比现在使用的材料强好几倍，只是个别部分还是未知数。其装配的精密程度堪比最精确的手表。它运载着用于推进，导航，控制，通讯，食品和维生的各种设备，肩负着前所未有的使命，登上那个未知的天体，之后安全返回地球。以超过2万5千英里的时速重返大气层，由此产生的高温大约是太阳温度的一半，像此时此地一样热――如果我们要在这10年间，正确地实现这些目标――那我们必须敢做敢为。</p>
 <blockquote>
@@ -380,11 +368,32 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello World</title>
+    <url>/2022/03/19/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2>
+<h3 id="create-a-new-post"><a class="markdownIt-Anchor" href="#create-a-new-post"></a> Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="run-server"><a class="markdownIt-Anchor" href="#run-server"></a> Run server</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="generate-static-files"><a class="markdownIt-Anchor" href="#generate-static-files"></a> Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="deploy-to-remote-sites"><a class="markdownIt-Anchor" href="#deploy-to-remote-sites"></a> Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
     <title>隐私保护技术</title>
     <url>/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/</url>
-    <content><![CDATA[<h1 id="摘-要"><a href="#摘-要" class="headerlink" title="摘 要"></a><span id="_Toc92459718">摘 要</span></h1><p>近十几年来信息技术高速发展，互联网广泛普及，各类线上社交平台、电商平台等线上服务平台迅速兴起。与此同时，种类复杂繁多的、海量的数据也在互联网上以一种前所未有的速度不断发出，传递，接收，储存。这些海量的数据在以云计算为基础的平台上不断被保存并发掘出来。这些数据在收集，储存，使用的过程中，其安全性面临着巨大挑战。而在网络安全的威胁下，个人隐私泄露风险也日益加剧。而隐私信息被不法分子利用，进行有针对性的欺诈行为，给个人生活带来经济损失，甚至被用于灰色产业，黑色产业，给社会带来不稳定因素。因此，隐私安全防护成为社会广泛关注的热点。本文整理了目前隐私保护技术的发展现状，通过整合分析技术路线，发现隐私保护技术存在的挑战，预想未来隐私保护技术的进一步发展。</p>
-<p><strong>关键词：</strong>隐私保护，隐私保护技术，隐私保护法</p>
-<h1 id="目-录"><a href="#目-录" class="headerlink" title="目 录"></a><span id="_Toc92459719">目 录</span></h1><p><a href="#_Toc92459718">摘 要</a></p>
+    <content><![CDATA[<h1 id="span-id_toc92459718摘-要span"><a class="markdownIt-Anchor" href="#span-id_toc92459718摘-要span"></a> <span id="_Toc92459718">摘 要</span></h1>
+<p>近十几年来信息技术高速发展，互联网广泛普及，各类线上社交平台、电商平台等线上服务平台迅速兴起。与此同时，种类复杂繁多的、海量的数据也在互联网上以一种前所未有的速度不断发出，传递，接收，储存。这些海量的数据在以云计算为基础的平台上不断被保存并发掘出来。这些数据在收集，储存，使用的过程中，其安全性面临着巨大挑战。而在网络安全的威胁下，个人隐私泄露风险也日益加剧。而隐私信息被不法分子利用，进行有针对性的欺诈行为，给个人生活带来经济损失，甚至被用于灰色产业，黑色产业，给社会带来不稳定因素。因此，隐私安全防护成为社会广泛关注的热点。本文整理了目前隐私保护技术的发展现状，通过整合分析技术路线，发现隐私保护技术存在的挑战，预想未来隐私保护技术的进一步发展。</p>
+<p>**关键词：**隐私保护，隐私保护技术，隐私保护法</p>
+<h1 id="span-id_toc92459719目-录span"><a class="markdownIt-Anchor" href="#span-id_toc92459719目-录span"></a> <span id="_Toc92459719">目 录</span></h1>
+<p><a href="#_Toc92459718">摘 要</a></p>
 <p><a href="#_Toc92459719">目 录</a></p>
 <p><a href="#_Toc92459720">1 绪言</a></p>
 <p><a href="#_Toc92459721">1.1 隐私保护发展历程概述</a></p>
@@ -398,39 +407,60 @@
 <p><a href="#_Toc92459729">3.1 全文总结</a></p>
 <p><a href="#_Toc92459730">3.2 展望</a></p>
 <p><a href="#_Toc92459731">参考文献</a></p>
-<h1 id="绪言"><a href="#绪言" class="headerlink" title="绪言"></a><span id="_Toc92459720">绪言</span></h1><h2 id="隐私保护发展历程概述"><a href="#隐私保护发展历程概述" class="headerlink" title="隐私保护发展历程概述"></a><span id="_Toc92459721">隐私保护发展历程概述</span></h2><p>自1969年互联网在美国国防部研究计划（ARPA）中设立，并初次被运用于军事目的和学术领域，在这一时期，互联网的隐私保护机制几乎没有，连入网络的计算机可以获取网络中的全部数据和信息。而后互联网开始逐渐走向民用化、商业化<a href="#1">1</a>，开始了高速发展时期。互联网真正走向公众视野，开始大规模运用于民用领域，是在20世纪80年代末期，微型计算机的出现、局域网技术的成熟和光导纤维技术的商用化后。而在20世纪九十年代时期光导纤维技术的商用化，我国也开始了互联网探索时期。在此时期，网络安全问题已经初现端倪，信息窃取、电子欺骗、盗窃软件等事件频发，引起公众对网络空间中个人财产和隐私的担忧<a href="#2">[2]</a>。对于网络空间安全问题，7P问题为公众最为关心的几点，即Privacy（隐私）、Piracy（盗版）、Pricing（价格）、Pornography（色情）、Policing（政策制定）、Psychological（心理学）、Protection<br>of the<br>Network（网络保护）<a href="#3">[3]</a>。显然，被放在首位的隐私问题是网络安全问题中，社会关注的重中之重。在这一时期，防火墙技术，数据加密技术，智能卡技术等网络安全技术出现并开始大规模使用<a href="#3">[3]</a>。进入移动互联网时代隐私保护形势更为复杂：在个人隐私保护方面，在大数据、云计算快速发展的背景下，各大服务平台通过大量获取用户的个人信息，对采集信息进行大量分析，制作用户画像，从而为用户提供人性化、高度个性化的优质服务。但是这也让隐私问题更加凸显。一个小小的手机软件便能获取个人包括手机号、年龄、浏览记录、住址、实时地址等隐私信息，一度引发公众对于“Big<br>brother is watching<br>you.”的讨论。而在企业隐私保护方面，企业数据泄露将对企业带来巨大经济损失、行政处分、用户流失，IBM发布的《2018年数据泄露成本报告》中指出因数据泄露带来的成本平均高达386美元，而在2021年的最新报告中这一数字则达到了424万美元，在发生的超五千万条数据大型泄漏事件中这一数字则达到了惊人的4.01亿美元，并且报告指出这一数据每年正持续上涨<a href="#4">[4]</a><a href="#5">[5]</a>。近期我国《网络空间安全法》《个人信息保护法》的相继出台也引发热议，让隐私保护相关技术的发展成为当下研究的热点。</p>
-<h2 id="隐私保护简介"><a href="#隐私保护简介" class="headerlink" title="隐私保护简介"></a><span id="_Toc92459722">隐私保护简介</span></h2><p>隐私保护的概念是十分复杂的，涉及了多个领域。在MBA智库中隐私保护被定义为“使个人或集体等实体不愿意被外人知道的信息得到应有的保护<a href="#6">[6]</a>”。而在互联网时代，隐私保护的意义发生了细微的变化，例如在我国《个人信息保护法》中，个人信息被表述为“以电子或者其他方式记录的与已识别或者可识别的自然人有关的各种信息,不包括匿名化处理后的信息<a href="#7">[7]</a>”。在大数据技术，云计算技术发展的背景下，发展出了以匿名化脱敏化技术为基础延伸出的隐私保护计算技术（Privacy-preserving<br>computation<br>technology）、大数据隐私保护技术，基于区块链技术的数据隐私保护技术等。</p>
-<h1 id="隐私保护计算技术"><a href="#隐私保护计算技术" class="headerlink" title="隐私保护计算技术"></a><span id="_Toc92459723">隐私保护计算技术</span></h1><h2 id="隐私保护计算概念"><a href="#隐私保护计算概念" class="headerlink" title="隐私保护计算概念"></a><span id="_Toc92459724">隐私保护计算概念</span></h2><p>隐私保护计算可以简单认为隐私计算是一种“在黑箱中进行的数据分析计算并以黑箱形式传递的数据挖掘技术”。在行业内，根据中国信息通信研究院发布的《隐私保护计算技术研究报告》定义，隐私保护计算技术是指“在提供隐私保护的前提下，实现数据价值挖掘的技术体系[8]”。这项技术使得数据在加密状态下下、完全或半匿名状态、非透明状态下依然能够被计算发掘，如此一来在《个人信息保护法》规定的“个人信息”（不包括匿名化处理后的信息）范围内对用户信息进行处理成为可能。在完美契合法律的同时，这项技术也同时达到了隐私数据保护的目的，因为参与计算的数据处于加密或者匿名状态，计算中被盗取利用的可能性大大降低。这真正实现了“end<br>to end”式的数据分析环境，做到“数据可用不可见”<a href="#8">[8]</a><a href="#9">[9]</a>。</p>
-<h2 id="隐私保护计算架构"><a href="#隐私保护计算架构" class="headerlink" title="隐私保护计算架构"></a><span id="_Toc92459725">隐私保护计算架构</span></h2><p>计算架构由三部分组成<a href="#8">[8]</a>：</p>
+<h1 id="span-id_toc92459720绪言span"><a class="markdownIt-Anchor" href="#span-id_toc92459720绪言span"></a> <span id="_Toc92459720">绪言</span></h1>
+<h2 id="span-id_toc92459721隐私保护发展历程概述span"><a class="markdownIt-Anchor" href="#span-id_toc92459721隐私保护发展历程概述span"></a> <span id="_Toc92459721">隐私保护发展历程概述</span></h2>
+<p>自1969年互联网在美国国防部研究计划（ARPA）中设立，并初次被运用于军事目的和学术领域，在这一时期，互联网的隐私保护机制几乎没有，连入网络的计算机可以获取网络中的全部数据和信息。而后互联网开始逐渐走向民用化、商业化<a href="#1">1</a>，开始了高速发展时期。互联网真正走向公众视野，开始大规模运用于民用领域，是在20世纪80年代末期，微型计算机的出现、局域网技术的成熟和光导纤维技术的商用化后。而在20世纪九十年代时期光导纤维技术的商用化，我国也开始了互联网探索时期。在此时期，网络安全问题已经初现端倪，信息窃取、电子欺骗、盗窃软件等事件频发，引起公众对网络空间中个人财产和隐私的担忧<a href="#2">[2]</a>。对于网络空间安全问题，7P问题为公众最为关心的几点，即Privacy（隐私）、Piracy（盗版）、Pricing（价格）、Pornography（色情）、Policing（政策制定）、Psychological（心理学）、Protection<br>
+of the<br>
+Network（网络保护）<a href="#3">[3]</a>。显然，被放在首位的隐私问题是网络安全问题中，社会关注的重中之重。在这一时期，防火墙技术，数据加密技术，智能卡技术等网络安全技术出现并开始大规模使用<a href="#3">[3]</a>。进入移动互联网时代隐私保护形势更为复杂：在个人隐私保护方面，在大数据、云计算快速发展的背景下，各大服务平台通过大量获取用户的个人信息，对采集信息进行大量分析，制作用户画像，从而为用户提供人性化、高度个性化的优质服务。但是这也让隐私问题更加凸显。一个小小的手机软件便能获取个人包括手机号、年龄、浏览记录、住址、实时地址等隐私信息，一度引发公众对于“Big<br>
+brother is watching<br>
+you.”的讨论。而在企业隐私保护方面，企业数据泄露将对企业带来巨大经济损失、行政处分、用户流失，IBM发布的《2018年数据泄露成本报告》中指出因数据泄露带来的成本平均高达386美元，而在2021年的最新报告中这一数字则达到了424万美元，在发生的超五千万条数据大型泄漏事件中这一数字则达到了惊人的4.01亿美元，并且报告指出这一数据每年正持续上涨<a href="#4">[4]</a><a href="#5">[5]</a>。近期我国《网络空间安全法》《个人信息保护法》的相继出台也引发热议，让隐私保护相关技术的发展成为当下研究的热点。</p>
+<h2 id="span-id_toc92459722隐私保护简介span"><a class="markdownIt-Anchor" href="#span-id_toc92459722隐私保护简介span"></a> <span id="_Toc92459722">隐私保护简介</span></h2>
+<p>隐私保护的概念是十分复杂的，涉及了多个领域。在MBA智库中隐私保护被定义为“使个人或集体等实体不愿意被外人知道的信息得到应有的保护<a href="#6">[6]</a>”。而在互联网时代，隐私保护的意义发生了细微的变化，例如在我国《个人信息保护法》中，个人信息被表述为“以电子或者其他方式记录的与已识别或者可识别的自然人有关的各种信息,不包括匿名化处理后的信息<a href="#7">[7]</a>”。在大数据技术，云计算技术发展的背景下，发展出了以匿名化脱敏化技术为基础延伸出的隐私保护计算技术（Privacy-preserving<br>
+computation<br>
+technology）、大数据隐私保护技术，基于区块链技术的数据隐私保护技术等。</p>
+<h1 id="span-id_toc92459723隐私保护计算技术span"><a class="markdownIt-Anchor" href="#span-id_toc92459723隐私保护计算技术span"></a> <span id="_Toc92459723">隐私保护计算技术</span></h1>
+<h2 id="span-id_toc92459724隐私保护计算概念span"><a class="markdownIt-Anchor" href="#span-id_toc92459724隐私保护计算概念span"></a> <span id="_Toc92459724">隐私保护计算概念</span></h2>
+<p>隐私保护计算可以简单认为隐私计算是一种“在黑箱中进行的数据分析计算并以黑箱形式传递的数据挖掘技术”。在行业内，根据中国信息通信研究院发布的《隐私保护计算技术研究报告》定义，隐私保护计算技术是指“在提供隐私保护的前提下，实现数据价值挖掘的技术体系[8]”。这项技术使得数据在加密状态下下、完全或半匿名状态、非透明状态下依然能够被计算发掘，如此一来在《个人信息保护法》规定的“个人信息”（不包括匿名化处理后的信息）范围内对用户信息进行处理成为可能。在完美契合法律的同时，这项技术也同时达到了隐私数据保护的目的，因为参与计算的数据处于加密或者匿名状态，计算中被盗取利用的可能性大大降低。这真正实现了“end<br>
+to end”式的数据分析环境，做到“数据可用不可见”<a href="#8">[8]</a><a href="#9">[9]</a>。</p>
+<h2 id="span-id_toc92459725隐私保护计算架构span"><a class="markdownIt-Anchor" href="#span-id_toc92459725隐私保护计算架构span"></a> <span id="_Toc92459725">隐私保护计算架构</span></h2>
+<p>计算架构由三部分组成<a href="#8">[8]</a>：</p>
 <p>1.数据提供方，可以是数据采集者，也可以是大量用户、团体，这一部分将需要计算的数据传递给下一级数据计算方；</p>
 <p>2.数据计算方，将大量数据以加密方式进行计算。这一方为算力提供方，可以是云计算服务平台。这一部分将数据计算的结果转交给数据获取方</p>
 <p>3.数据获取方，这一部分负责接受加密的匿名的数据结果。</p>
 <p>以下为中文及外文架构图</p>
 <!-- ![Figure 1](隐私保护技术\d571480b4d7bcb4dbcbe74838b003.png) -->
 <!--  -->
-<p><img src="/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/3e076bcd17eff25b2e6b8464ad986c5d.png"></p>
+<img src="/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/3e076bcd17eff25b2e6b8464ad986c5d.png">
 <p>Figure 1<a href="#8">[8]</a></p>
 <!-- ![Figure 2](隐私保护技术\bff5210d08014abafe442901b26e3b5e.png) -->
 <!-- <img src="/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/bff5210d08014abafe442901b26e3b5e.png" class="" title="Figure 2"> -->
-<p><img src="/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/bff5210d08014abafe442901b26e3b5e.png"></p>
+<img src="/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/bff5210d08014abafe442901b26e3b5e.png">
 <p>Figure 2<a href="#9">[9]</a></p>
-<h2 id="隐私保护计算关键技术"><a href="#隐私保护计算关键技术" class="headerlink" title="隐私保护计算关键技术"></a><span id="_Toc92459726">隐私保护计算关键技术</span></h2><h3 id="同态加密"><a href="#同态加密" class="headerlink" title="同态加密"></a>同态加密</h3><p>同态加密技术是基于密码学方法的加密算法，利用特殊的算法使计算所用数据进行加密后，直接以密文形式参与运算，而运算结果同样为密文形式，而且这种密文形式能以上述加密方法对应的解密方法进行解密得出结果。这种技术的优势在于数据的“可算不可见”，使得在第三方计算时隐私全过程都能受到保护，让云计算的安全性大大提升。目前的同态加密方案分为部分同态加密方案（SHE）和全同态加密方案（FHE）。SHE计算深度有限，功能有限，单纯依靠SHE难以建立隐私保护计算方案；而FHE虽理论上可以支持任意计算深度，但计算复杂度高，计算代价高，目前没有商业应用使用该理论方案<a href="#10">[10]</a>。</p>
-<h3 id="差分隐私"><a href="#差分隐私" class="headerlink" title="差分隐私"></a>差分隐私</h3><ol>
+<h2 id="span-id_toc92459726隐私保护计算关键技术span"><a class="markdownIt-Anchor" href="#span-id_toc92459726隐私保护计算关键技术span"></a> <span id="_Toc92459726">隐私保护计算关键技术</span></h2>
+<h3 id="同态加密"><a class="markdownIt-Anchor" href="#同态加密"></a> 同态加密</h3>
+<p>同态加密技术是基于密码学方法的加密算法，利用特殊的算法使计算所用数据进行加密后，直接以密文形式参与运算，而运算结果同样为密文形式，而且这种密文形式能以上述加密方法对应的解密方法进行解密得出结果。这种技术的优势在于数据的“可算不可见”，使得在第三方计算时隐私全过程都能受到保护，让云计算的安全性大大提升。目前的同态加密方案分为部分同态加密方案（SHE）和全同态加密方案（FHE）。SHE计算深度有限，功能有限，单纯依靠SHE难以建立隐私保护计算方案；而FHE虽理论上可以支持任意计算深度，但计算复杂度高，计算代价高，目前没有商业应用使用该理论方案<a href="#10">[10]</a>。</p>
+<h3 id="差分隐私"><a class="markdownIt-Anchor" href="#差分隐私"></a> 差分隐私</h3>
+<ol>
 <li>差分隐私产生背景</li>
 </ol>
-<p>在差分隐私产生前，主流的数据隐私保护方法为k-anonymity及后发展出的l-diversity等隐私保护模型<a href="#11">[11]</a>。但这些隐私保护模型都不能提供足够安全的防护，这些模型在各种新型攻击的产生下都需要进行完善改进，例如针对k-anonymity的一致性攻击（homogeneity<br>attack）、背景知识攻击（background knowledge<br>attack）和针对l-diversity的相似性攻击（similarity<br>attack）<a href="#11">[11]</a>。同时这些模型也不能提供有效的方法严格证明其安全性，这对实际运用时评估其保护水平十分不利，大大降低了可靠性<a href="#12">[12]</a>。这两方面的问题根本原因都在于此前的模型都对于攻击者没有建立一个严格的模型，这些模型的安全水平却都与攻击者掌握的“情报”水平密切相关。因此一个对攻击者模型具有严格定义且能在攻击者掌握最大“情报”的条件下依然能抵抗攻击的隐私保护技术将能真正解决这些缺陷。差分隐私应运而生。</p>
+<p>在差分隐私产生前，主流的数据隐私保护方法为k-anonymity及后发展出的l-diversity等隐私保护模型<a href="#11">[11]</a>。但这些隐私保护模型都不能提供足够安全的防护，这些模型在各种新型攻击的产生下都需要进行完善改进，例如针对k-anonymity的一致性攻击（homogeneity<br>
+attack）、背景知识攻击（background knowledge<br>
+attack）和针对l-diversity的相似性攻击（similarity<br>
+attack）<a href="#11">[11]</a>。同时这些模型也不能提供有效的方法严格证明其安全性，这对实际运用时评估其保护水平十分不利，大大降低了可靠性<a href="#12">[12]</a>。这两方面的问题根本原因都在于此前的模型都对于攻击者没有建立一个严格的模型，这些模型的安全水平却都与攻击者掌握的“情报”水平密切相关。因此一个对攻击者模型具有严格定义且能在攻击者掌握最大“情报”的条件下依然能抵抗攻击的隐私保护技术将能真正解决这些缺陷。差分隐私应运而生。</p>
 <ol>
 <li>差分隐私特点</li>
 </ol>
 <p>差分隐私保护很好的实现了在差分攻击下的隐私保护。这一目的是通过添加少量噪声的手段实现。通过添加噪声使得差分攻击的攻击者无法通过样本改变实现有效的信息获取，起到保护隐私的目的<a href="#11">[11]</a>。理论上添加的噪声越大，安全性越高，但同时数据的可用性越低。</p>
-<h3 id="联邦学习"><a href="#联邦学习" class="headerlink" title="联邦学习"></a>联邦学习</h3><p>联邦学习最早于2006年由谷歌的H.Brendan McMahan等人提出。</p>
+<h3 id="联邦学习"><a class="markdownIt-Anchor" href="#联邦学习"></a> 联邦学习</h3>
+<p>联邦学习最早于2006年由谷歌的H.Brendan McMahan等人提出。</p>
 <p>联邦学习是一种基于分布式机器学习的技术。通过中央服务器的综合协调，对加密数据进行流通处理，最终实现语言预测模型更新。在具体实现上，就是几个部分不断重复的过程。首先多个客户终端下载预测模型，然后使用本地数据进行机器学习进行模型更新，然后将更新后的模型上传至中央服务器。而中央服务器则负责将多个终端上传的模型进行融合优化，产生新的预测模型。最后多个客户终端下载预测模型，如此重复操作，达到模型不断更新的目的。这种技术的安全性最大的保障就在于隐私数据一直储存在本地而非上传至云端，从根本上避免了数据泄露的可能性。</p>
 <p>参考架构如图</p>
 <!-- ![Figure 3](隐私保护技术\3e076bcd17eff25b2e6b8464ad986c5d.png) -->
 <!-- <img src="/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/3e076bcd17eff25b2e6b8464ad986c5d.png" class="" title="Figure 3"> -->
-<p><img src="/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/3e076bcd17eff25b2e6b8464ad986c5d.png"></p>
+<img src="/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/3e076bcd17eff25b2e6b8464ad986c5d.png">
 <p>Figure 3<a href="#8">[8]</a></p>
-<h3 id="安全多方计算"><a href="#安全多方计算" class="headerlink" title="安全多方计算"></a>安全多方计算</h3><p>安全多方计算技术最早在1982年由图灵奖获得者、中国科学院院士姚期智正式提出。</p>
+<h3 id="安全多方计算"><a class="markdownIt-Anchor" href="#安全多方计算"></a> 安全多方计算</h3>
+<p>安全多方计算技术最早在1982年由图灵奖获得者、中国科学院院士姚期智正式提出。</p>
 <ol>
 <li><strong>定义</strong></li>
 </ol>
@@ -448,35 +478,45 @@
 <li><strong>关键技术</strong></li>
 </ol>
 <p>关键技术主要为以下几个：秘密共享（SS）、不经意传输（OT）、混淆电路（GC）。</p>
-<h3 id="机密计算"><a href="#机密计算" class="headerlink" title="机密计算"></a>机密计算</h3><ol>
+<h3 id="机密计算"><a class="markdownIt-Anchor" href="#机密计算"></a> 机密计算</h3>
+<ol>
 <li><strong>定义及应用</strong></li>
 </ol>
 <p>机密计算联盟的定义为“通过在基于硬件的可信执行环境（TEE）中执行计算来保护数据应用中的隐私安全的技术之一”。其中核心技术关键为基于硬件的可信执行环境（TEE）的实现。目前较为成熟的技术有Intel的SGX和ARM的TrustZone。</p>
-<h2 id="隐私计算技术的综合评价"><a href="#隐私计算技术的综合评价" class="headerlink" title="隐私计算技术的综合评价"></a><span id="_Toc92459727">隐私计算技术的综合评价</span></h2><p>综合评价主要评估了保护效果、计算代价、计算精度、商用场景等几个方面。评价结果如图所示。</p>
+<h2 id="span-id_toc92459727隐私计算技术的综合评价span"><a class="markdownIt-Anchor" href="#span-id_toc92459727隐私计算技术的综合评价span"></a> <span id="_Toc92459727">隐私计算技术的综合评价</span></h2>
+<p>综合评价主要评估了保护效果、计算代价、计算精度、商用场景等几个方面。评价结果如图所示。</p>
 <p>表格参考《隐私保护计算研究报告（2020）》</p>
 <!--![Figure 4](隐私保护技术\c12882fc3ca827ac8aeb18cb6210e6ba.png)-->
 <!-- <img src="/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/c12882fc3ca827ac8aeb18cb6210e6ba.png" class="" title="Figure 4"> -->
-<p><img src="/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/c12882fc3ca827ac8aeb18cb6210e6ba.png"></p>
+<img src="/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/c12882fc3ca827ac8aeb18cb6210e6ba.png">
 <p>Figure 4<a href="#8">[8]</a></p>
-<h1 id="总结与展望"><a href="#总结与展望" class="headerlink" title="总结与展望"></a><span id="_Toc92459728">总结与展望</span></h1><h2 id="全文总结"><a href="#全文总结" class="headerlink" title="全文总结"></a><span id="_Toc92459729">全文总结</span></h2><p>在移动互联网繁荣发展背景下，隐私保护与当下人们的生活联系十分紧密。隐私保护与我们当下的生活息息相关：当我们下载好一个手机软件打开后，第一件事一定是要勾选用户隐私保护协议，并且授予软件各种权限，从应用列表到手机通讯录，从剪贴板到短信记录，从手机定位到手机录音，这些权限无所不包，而在软件中，浏览记录、聊天记录、购物记录，甚至支付记录都储存在了服务提供方的数据里，这涉及到了我们生活的方方面面。作为用户的我们有权要求厂商保护好我们的隐私。在社会层面，我想知道法律对个人以及企业隐私保护有哪些法条解释；技术上，我想深入了解在大数据时代隐私保护究竟能有什么样的技术支持。</p>
+<h1 id="span-id_toc92459728总结与展望span"><a class="markdownIt-Anchor" href="#span-id_toc92459728总结与展望span"></a> <span id="_Toc92459728">总结与展望</span></h1>
+<h2 id="span-id_toc92459729全文总结span"><a class="markdownIt-Anchor" href="#span-id_toc92459729全文总结span"></a> <span id="_Toc92459729">全文总结</span></h2>
+<p>在移动互联网繁荣发展背景下，隐私保护与当下人们的生活联系十分紧密。隐私保护与我们当下的生活息息相关：当我们下载好一个手机软件打开后，第一件事一定是要勾选用户隐私保护协议，并且授予软件各种权限，从应用列表到手机通讯录，从剪贴板到短信记录，从手机定位到手机录音，这些权限无所不包，而在软件中，浏览记录、聊天记录、购物记录，甚至支付记录都储存在了服务提供方的数据里，这涉及到了我们生活的方方面面。作为用户的我们有权要求厂商保护好我们的隐私。在社会层面，我想知道法律对个人以及企业隐私保护有哪些法条解释；技术上，我想深入了解在大数据时代隐私保护究竟能有什么样的技术支持。</p>
 <p>在研究报告撰写过程中，资料搜集是最大的困难，一是因为隐私保护技术在近几年才火热起来，技术性研究论文多，相关总结性的报告较少，二是这项技术理论性强，涉及领域广，已有的资料中大多数理论对我来说过于高深，难以吃透。因此我通过多个学术网站综合查找，通过一个论文的引用寻找下一级论文，层层查找翻阅筛选找到对研究报告有用的部分，并在论文查阅时，特别注意筛选对于分类整理有用的总结性观点，并加以归纳，再次总结，最后完成研究报告。</p>
 <p>参考资料全部内容除部分超出知识范围外，大部分经过了仔细阅读。基于本次研究报告性质，我认为《全球数据合规与隐私科技发展报告》<a href="#5">[5]</a>《隐私保护计算技术研究报告》<a href="#7">[7]</a>《隐私计算研究范畴及发展趋势》这几篇比较有参考价值。这些报告的总结性强，涵盖了该行业的大多数技术进展，从多个方面剖析了技术内容，结合当前形式合理分析发展了方向，同时也从行业规范、技术难度、法律的等层面分析了技术面临的挑战，具有指导意义。</p>
 <p>在研究隐私保护问题上，我思考的问题主要有以下几个方面：一是在法律道德层面，保护个人隐私究竟需要做到什么程度，因为在技术上，大数据计算甚至在匿名运算下能做到对用户行为的预测判断，这是完全超出了传统隐私保护范围的；二是在技术层面，当下的隐私保护技术发展真实情况到底如何，究竟是不是如同媒体宣传所言“网络上的都是透明人”，同时也分析当下的技术难点和面临的挑战，思考未来这项技术将走向何方。</p>
-<h2 id="展望"><a href="#展望" class="headerlink" title="展望"></a><span id="_Toc92459730">展望</span></h2><p>这个研究报告的性质主要为整理归纳当前隐私保护技术发展现状，在这篇报告中我仅对技术大类和目前的热门技术进行了分类整理，且主要聚焦于国内的行业技术发展，未来需要对技术进行更加细化的分类整理，同时需要积极吸收国外最新技术成果以全面描述技术路线。同时，也需要对基础的如密码学、人工智能、数据科学等方面的最新成果进行一定程度的分析，更好的把握未来技术发展趋势。</p>
-<h1 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a><span id="_Toc92459731">参考文献</span></h1><p><span id="1">1</span>. 李一兵,王建华.Internet，美国互联网发展概况[J].山东科学,1996(02):67.</p>
+<h2 id="span-id_toc92459730展望span"><a class="markdownIt-Anchor" href="#span-id_toc92459730展望span"></a> <span id="_Toc92459730">展望</span></h2>
+<p>这个研究报告的性质主要为整理归纳当前隐私保护技术发展现状，在这篇报告中我仅对技术大类和目前的热门技术进行了分类整理，且主要聚焦于国内的行业技术发展，未来需要对技术进行更加细化的分类整理，同时需要积极吸收国外最新技术成果以全面描述技术路线。同时，也需要对基础的如密码学、人工智能、数据科学等方面的最新成果进行一定程度的分析，更好的把握未来技术发展趋势。</p>
+<h1 id="span-id_toc92459731参考文献span"><a class="markdownIt-Anchor" href="#span-id_toc92459731参考文献span"></a> <span id="_Toc92459731">参考文献</span></h1>
+<p><span id="1">1</span>. 李一兵,王建华.Internet，美国互联网发展概况[J].山东科学,1996(02):67.</p>
 <p><span id="2">2</span>. 董小英,陈燕.Internet引发的社会问题[J].情报理论与实践,1995(04):40-44.DOI:10.16353/j.cnki.1000-7490.1995.04.012.</p>
 <p><span id="3">3</span>. 刘钢,李敬革.网络安全与安全评估[J].信息系统工程,1997(04):38-39.</p>
-<p><span id="4">4</span>. URL:<br>    <a href="https://public.dhe.ibm.com/software/cn/downloads/pdfs/2018-global-codb-report_06271811_55017055CNZH_final.pdf">https://public.dhe.ibm.com/software/cn/downloads/pdfs/2018-global-codb-report_06271811_55017055CNZH_final.pdf</a></p>
+<p><span id="4">4</span>. URL:<br>
+<a href="https://public.dhe.ibm.com/software/cn/downloads/pdfs/2018-global-codb-report_06271811_55017055CNZH_final.pdf">https://public.dhe.ibm.com/software/cn/downloads/pdfs/2018-global-codb-report_06271811_55017055CNZH_final.pdf</a></p>
 <p><span id="5">5</span>. URL：<a href="http://www.sicsi.org.cn/Upload/ueditor_file/ueditor/20211231/1640943375438233.pdf">http://www.sicsi.org.cn/Upload/ueditor_file/ueditor/20211231/1640943375438233.pdf</a></p>
-<p><span id="6">6</span>. URL: <a href="https://wiki.mbalib.com/wiki/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4">https://wiki.mbalib.com/wiki/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4</a></p>
+<p><span id="6">6</span>. URL: <a href="https://wiki.mbalib.com/wiki/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4">https://wiki.mbalib.com/wiki/隐私保护</a></p>
 <p><span id="7">7</span>. URL：<a href="http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml">http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml</a></p>
 <p><span id="8">8</span>. URL：<a href="http://www.caict.ac.cn/kxyj/qwfb/ztbg/202011/P020201110408006418997.pdf">http://www.caict.ac.cn/kxyj/qwfb/ztbg/202011/P020201110408006418997.pdf</a></p>
-<p><span id="9">9</span>. URL：<a href="https://unstats.un.org/bigdata/task-teams/privacy/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf">https://unstats.un.org/bigdata/task-teams/privacy/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf</a></p>
+<p><span id="9">9</span>. URL：<a href="https://unstats.un.org/bigdata/task-teams/privacy/UN%20Handbook%20for%20Privacy-Preserving%20Techniques.pdf">https://unstats.un.org/bigdata/task-teams/privacy/UN Handbook for Privacy-Preserving Techniques.pdf</a></p>
 <p><span id="10">10</span>. 李凤华,李晖,贾焰,俞能海,翁健.隐私计算研究范畴及发展趋势[J].通信学报,2016,37(04):1-11.</p>
 <p><span id="12">12</span>. 李杨,温雯,谢光强.差分隐私保护研究综述[J].计算机应用研究,2012,29(09):3201-3205+3211.</p>
 <p><span id="13">13</span>. 熊平,朱天清,王晓峰.差分隐私保护及其应用[J].计算机学报,2014,37(01):101-122.</p>
 <p><span id="14">14</span>. 孙茂华. 安全多方计算及其应用研究[D].北京邮电大学,2013.</p>
-<p><span id="15">15</span>. Chuan Zhao, Shengnan Zhao, Minghao Zhao, Zhenxiang Chen, Chong-Zhi Gao,<br>    Hongwei Li, Yu-an Tan,Secure Multi-Party Computation: Theory, practice and<br>    applications,Information Sciences,Volume 476,2019,Pages 357-372,ISSN<br>    0020-0255, DOI:10.1016/j.ins.2018.10.024.</p>
+<p><span id="15">15</span>. Chuan Zhao, Shengnan Zhao, Minghao Zhao, Zhenxiang Chen, Chong-Zhi Gao,<br>
+Hongwei Li, Yu-an Tan,Secure Multi-Party Computation: Theory, practice and<br>
+applications,Information Sciences,Volume 476,2019,Pages 357-372,ISSN<br>
+0020-0255, DOI:10.1016/j.ins.2018.10.024.</p>
 ]]></content>
       <tags>
         <tag>论文</tag>
