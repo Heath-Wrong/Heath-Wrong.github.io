@@ -1,0 +1,121 @@
+body {
+  background: url("/images/background.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+.main-inner > .sub-menu,
+.main-inner > .post-block,
+.main-inner > .tabs-comment,
+.main-inner > .comments,
+.main-inner > .pagination {
+  background: rgba(245,245,245,0.42);
+}
+body {
+  color: #000;
+}
+.posts-expand .post-title-link {
+  color: #000;
+}
+.posts-expand .post-meta-container {
+  color: #000;
+}
+.sidebar {
+  opacity: 0.75;
+}
+.header-inner {
+  background: rgba(255,255,255,0.7);
+}
+.popup {
+  opacity: 0.7;
+}
+.main-inner {
+  opacity: 0.7;
+}
+.fa {
+  font-size: 14px;
+}
+.fa-home {
+  color: #e74c3c;
+  font-size: 15px;
+}
+.fa-archive {
+  color: #1abc9c;
+}
+.fa-tags {
+  color: #ffa500;
+}
+.fa-chalkboard {
+  color: #3498db;
+}
+.fa-link {
+  color: #fc427b;
+}
+.fa-user {
+  color: #9b59b6;
+}
+.fa-camera {
+  color: #1abc9c;
+}
+.fa-envelope {
+  color: #fc427b;
+}
+.fa-zhihu {
+  color: #00f;
+}
+.fa-calendar-check {
+  color: #f00;
+}
+.fa-eye {
+  color: #70a1ff;
+}
+.fa-comment {
+  color: #2ed573;
+}
+.fa-comments {
+  color: #2ed573;
+}
+.fa-file-word {
+  color: #273c75;
+}
+.fa-clock {
+  color: #ff5252;
+}
+.fa-image {
+  color: #fc427b;
+}
+.fa-sun {
+  color: #ffa500;
+}
+.fa-bookmark {
+  color: #0ff;
+}
+.fa-book {
+  color: #1abc9c;
+}
+.fa-images {
+  color: #f0f;
+}
+.fa-windows {
+  color: #e74c3c;
+}
+.fa-chrome {
+  color: #ffa500;
+}
+.fa-desktop {
+  color: #3498db;
+}
+.fa-tools {
+  color: #0ff;
+}
+.fa-python {
+  color: #3498db;
+}
+.post {
+  margin-top: 60px;
+  padding: 20px;
+  margin-bottom: 60px;
+  -webkit-box-shadow: 0 0 5px #788072;
+  -moz-box-shadow: 0 0 5px rgba(202,203,204,0.5);
+}
