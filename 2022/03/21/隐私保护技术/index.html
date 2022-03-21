@@ -27,15 +27,16 @@
 <meta property="og:site_name" content="Heath&#39;s Blog">
 <meta property="og:description" content="摘 要 近十几年来信息技术高速发展，互联网广泛普及，各类线上社交平台、电商平台等线上服务平台迅速兴起。与此同时，种类复杂繁多的、海量的数据也在互联网上以一种前所未有的速度不断发出，传递，接收，储存。这些海量的数据在以云计算为基础的平台上不断被保存并发掘出来。这些数据在收集，储存，使用的过程中，其安全性面临着巨大挑战。而在网络安全的威胁下，个人隐私泄露风险也日益加剧。而隐私信息被不法分子利用，进行">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://heath-wrong.github.io/.io//03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/bff5210d08014abafe442901b26e3b5e.png">
-<meta property="og:image" content="https://heath-wrong.github.io/.io//03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/3e076bcd17eff25b2e6b8464ad986c5d.png">
-<meta property="og:image" content="https://heath-wrong.github.io/.io//03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/c12882fc3ca827ac8aeb18cb6210e6ba.png">
+<meta property="og:image" content="https://heath-wrong.github.io/.io//d571480b4d7bcb4dbcbe74838b003.png">
+<meta property="og:image" content="https://heath-wrong.github.io/.io//bff5210d08014abafe442901b26e3b5e.png">
+<meta property="og:image" content="https://heath-wrong.github.io/.io//3e076bcd17eff25b2e6b8464ad986c5d.png">
+<meta property="og:image" content="https://heath-wrong.github.io/.io//c12882fc3ca827ac8aeb18cb6210e6ba.png">
 <meta property="article:published_time" content="2022-03-20T16:33:54.000Z">
-<meta property="article:modified_time" content="2022-03-20T17:55:54.378Z">
+<meta property="article:modified_time" content="2022-03-21T08:54:01.944Z">
 <meta property="article:author" content="Heath Wrong">
 <meta property="article:tag" content="论文">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://heath-wrong.github.io/.io//03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/bff5210d08014abafe442901b26e3b5e.png">
+<meta name="twitter:image" content="https://heath-wrong.github.io/.io//d571480b4d7bcb4dbcbe74838b003.png">
 
 
 <link rel="canonical" href="https://heath-wrong.github.io/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/">
@@ -211,7 +212,7 @@
       <span class="post-meta-item-text">发表于</span>
       
 
-      <time title="创建时间：2022-03-21 00:33:54 / 修改时间：01:55:54" itemprop="dateCreated datePublished" datetime="2022-03-21T00:33:54+08:00">2022-03-21</time>
+      <time title="创建时间：2022-03-21 00:33:54 / 修改时间：16:54:01" itemprop="dateCreated datePublished" datetime="2022-03-21T00:33:54+08:00">2022-03-21</time>
     </span>
 
   
@@ -263,9 +264,9 @@ to end”式的数据分析环境，做到“数据可用不可见”<a href="#8
 <p>2.数据计算方，将大量数据以加密方式进行计算。这一方为算力提供方，可以是云计算服务平台。这一部分将数据计算的结果转交给数据获取方</p>
 <p>3.数据获取方，这一部分负责接受加密的匿名的数据结果。</p>
 <p>以下为中文及外文架构图</p>
-
+<p><img src="/.io//d571480b4d7bcb4dbcbe74838b003.png" alt="Figure 1"></p>
 <p>Figure 1<a href="#8">[8]</a></p>
-<img src="/.io//03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/bff5210d08014abafe442901b26e3b5e.png" class title="Figure2">
+<p><img src="/.io//bff5210d08014abafe442901b26e3b5e.png" alt="Figure 2"></p>
 <p>Figure 2<a href="#9">[9]</a></p>
 <h2 id="span-id_toc92459726隐私保护计算关键技术span"><a class="markdownIt-Anchor" href="#span-id_toc92459726隐私保护计算关键技术span"></a> <span id="_Toc92459726">隐私保护计算关键技术</span></h2>
 <h3 id="同态加密"><a class="markdownIt-Anchor" href="#同态加密"></a> 同态加密</h3>
@@ -286,7 +287,7 @@ attack）<a href="#11">[11]</a>。同时这些模型也不能提供有效的方�
 <p>联邦学习最早于2006年由谷歌的H.Brendan McMahan等人提出。</p>
 <p>联邦学习是一种基于分布式机器学习的技术。通过中央服务器的综合协调，对加密数据进行流通处理，最终实现语言预测模型更新。在具体实现上，就是几个部分不断重复的过程。首先多个客户终端下载预测模型，然后使用本地数据进行机器学习进行模型更新，然后将更新后的模型上传至中央服务器。而中央服务器则负责将多个终端上传的模型进行融合优化，产生新的预测模型。最后多个客户终端下载预测模型，如此重复操作，达到模型不断更新的目的。这种技术的安全性最大的保障就在于隐私数据一直储存在本地而非上传至云端，从根本上避免了数据泄露的可能性。</p>
 <p>参考架构如图</p>
-<img src="/.io//03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/3e076bcd17eff25b2e6b8464ad986c5d.png" class title="Figure3">
+<p><img src="/.io//3e076bcd17eff25b2e6b8464ad986c5d.png" alt="Figure 3"></p>
 <p>Figure 3<a href="#8">[8]</a></p>
 <h3 id="安全多方计算"><a class="markdownIt-Anchor" href="#安全多方计算"></a> 安全多方计算</h3>
 <p>安全多方计算技术最早在1982年由图灵奖获得者、中国科学院院士姚期智正式提出。</p>
@@ -315,7 +316,7 @@ attack）<a href="#11">[11]</a>。同时这些模型也不能提供有效的方�
 <h2 id="span-id_toc92459727隐私计算技术的综合评价span"><a class="markdownIt-Anchor" href="#span-id_toc92459727隐私计算技术的综合评价span"></a> <span id="_Toc92459727">隐私计算技术的综合评价</span></h2>
 <p>综合评价主要评估了保护效果、计算代价、计算精度、商用场景等几个方面。评价结果如图所示。</p>
 <p>表格参考《隐私保护计算研究报告（2020）》</p>
-<img src="/.io//03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/c12882fc3ca827ac8aeb18cb6210e6ba.png" class title="Figure4">
+<p><img src="/.io//c12882fc3ca827ac8aeb18cb6210e6ba.png" alt="Figure 4"></p>
 <p>Figure 4<a href="#8">[8]</a></p>
 <h1 id="span-id_toc92459728总结与展望span"><a class="markdownIt-Anchor" href="#span-id_toc92459728总结与展望span"></a> <span id="_Toc92459728">总结与展望</span></h1>
 <h2 id="span-id_toc92459729全文总结span"><a class="markdownIt-Anchor" href="#span-id_toc92459729全文总结span"></a> <span id="_Toc92459729">全文总结</span></h2>
