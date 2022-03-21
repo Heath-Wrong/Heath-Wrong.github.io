@@ -27,16 +27,11 @@
 <meta property="og:site_name" content="Heath&#39;s Blog">
 <meta property="og:description" content="摘 要 近十几年来信息技术高速发展，互联网广泛普及，各类线上社交平台、电商平台等线上服务平台迅速兴起。与此同时，种类复杂繁多的、海量的数据也在互联网上以一种前所未有的速度不断发出，传递，接收，储存。这些海量的数据在以云计算为基础的平台上不断被保存并发掘出来。这些数据在收集，储存，使用的过程中，其安全性面临着巨大挑战。而在网络安全的威胁下，个人隐私泄露风险也日益加剧。而隐私信息被不法分子利用，进行">
 <meta property="og:locale" content="zh_CN">
-<meta property="og:image" content="https://heath-wrong.github.io/.io//d571480b4d7bcb4dbcbe74838b003.png">
-<meta property="og:image" content="https://heath-wrong.github.io/.io//bff5210d08014abafe442901b26e3b5e.png">
-<meta property="og:image" content="https://heath-wrong.github.io/.io//3e076bcd17eff25b2e6b8464ad986c5d.png">
-<meta property="og:image" content="https://heath-wrong.github.io/.io//c12882fc3ca827ac8aeb18cb6210e6ba.png">
 <meta property="article:published_time" content="2022-03-20T16:33:54.000Z">
-<meta property="article:modified_time" content="2022-03-21T08:54:01.944Z">
+<meta property="article:modified_time" content="2022-03-21T09:27:53.288Z">
 <meta property="article:author" content="Heath Wrong">
 <meta property="article:tag" content="论文">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:image" content="https://heath-wrong.github.io/.io//d571480b4d7bcb4dbcbe74838b003.png">
 
 
 <link rel="canonical" href="https://heath-wrong.github.io/2022/03/21/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%8A%80%E6%9C%AF/">
@@ -164,7 +159,6 @@
     <i class="fa fa-arrow-up"></i>
     <span>0%</span>
   </div>
-  <div class="reading-progress-bar"></div>
 
 <noscript>
   <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
@@ -212,7 +206,7 @@
       <span class="post-meta-item-text">发表于</span>
       
 
-      <time title="创建时间：2022-03-21 00:33:54 / 修改时间：16:54:01" itemprop="dateCreated datePublished" datetime="2022-03-21T00:33:54+08:00">2022-03-21</time>
+      <time title="创建时间：2022-03-21 00:33:54 / 修改时间：17:27:53" itemprop="dateCreated datePublished" datetime="2022-03-21T00:33:54+08:00">2022-03-21</time>
     </span>
 
   
@@ -245,18 +239,18 @@
 <p><a href="#_Toc92459731">参考文献</a></p>
 <h1 id="span-id_toc92459720绪言span"><a class="markdownIt-Anchor" href="#span-id_toc92459720绪言span"></a> <span id="_Toc92459720">绪言</span></h1>
 <h2 id="span-id_toc92459721隐私保护发展历程概述span"><a class="markdownIt-Anchor" href="#span-id_toc92459721隐私保护发展历程概述span"></a> <span id="_Toc92459721">隐私保护发展历程概述</span></h2>
-<p>自1969年互联网在美国国防部研究计划（ARPA）中设立，并初次被运用于军事目的和学术领域，在这一时期，互联网的隐私保护机制几乎没有，连入网络的计算机可以获取网络中的全部数据和信息。而后互联网开始逐渐走向民用化、商业化<a href="#1">1</a>，开始了高速发展时期。互联网真正走向公众视野，开始大规模运用于民用领域，是在20世纪80年代末期，微型计算机的出现、局域网技术的成熟和光导纤维技术的商用化后。而在20世纪九十年代时期光导纤维技术的商用化，我国也开始了互联网探索时期。在此时期，网络安全问题已经初现端倪，信息窃取、电子欺骗、盗窃软件等事件频发，引起公众对网络空间中个人财产和隐私的担忧<a href="#2">[2]</a>。对于网络空间安全问题，7P问题为公众最为关心的几点，即Privacy（隐私）、Piracy（盗版）、Pricing（价格）、Pornography（色情）、Policing（政策制定）、Psychological（心理学）、Protection<br>
-of the<br>
-Network（网络保护）<a href="#3">[3]</a>。显然，被放在首位的隐私问题是网络安全问题中，社会关注的重中之重。在这一时期，防火墙技术，数据加密技术，智能卡技术等网络安全技术出现并开始大规模使用<a href="#3">[3]</a>。进入移动互联网时代隐私保护形势更为复杂：在个人隐私保护方面，在大数据、云计算快速发展的背景下，各大服务平台通过大量获取用户的个人信息，对采集信息进行大量分析，制作用户画像，从而为用户提供人性化、高度个性化的优质服务。但是这也让隐私问题更加凸显。一个小小的手机软件便能获取个人包括手机号、年龄、浏览记录、住址、实时地址等隐私信息，一度引发公众对于“Big<br>
-brother is watching<br>
+<p>自1969年互联网在美国国防部研究计划（ARPA）中设立，并初次被运用于军事目的和学术领域，在这一时期，互联网的隐私保护机制几乎没有，连入网络的计算机可以获取网络中的全部数据和信息。而后互联网开始逐渐走向民用化、商业化<a href="#1">1</a>，开始了高速发展时期。互联网真正走向公众视野，开始大规模运用于民用领域，是在20世纪80年代末期，微型计算机的出现、局域网技术的成熟和光导纤维技术的商用化后。而在20世纪九十年代时期光导纤维技术的商用化，我国也开始了互联网探索时期。在此时期，网络安全问题已经初现端倪，信息窃取、电子欺骗、盗窃软件等事件频发，引起公众对网络空间中个人财产和隐私的担忧<a href="#2">[2]</a>。对于网络空间安全问题，7P问题为公众最为关心的几点，即Privacy（隐私）、Piracy（盗版）、Pricing（价格）、Pornography（色情）、Policing（政策制定）、Psychological（心理学）、Protection<br />
+of the<br />
+Network（网络保护）<a href="#3">[3]</a>。显然，被放在首位的隐私问题是网络安全问题中，社会关注的重中之重。在这一时期，防火墙技术，数据加密技术，智能卡技术等网络安全技术出现并开始大规模使用<a href="#3">[3]</a>。进入移动互联网时代隐私保护形势更为复杂：在个人隐私保护方面，在大数据、云计算快速发展的背景下，各大服务平台通过大量获取用户的个人信息，对采集信息进行大量分析，制作用户画像，从而为用户提供人性化、高度个性化的优质服务。但是这也让隐私问题更加凸显。一个小小的手机软件便能获取个人包括手机号、年龄、浏览记录、住址、实时地址等隐私信息，一度引发公众对于“Big<br />
+brother is watching<br />
 you.”的讨论。而在企业隐私保护方面，企业数据泄露将对企业带来巨大经济损失、行政处分、用户流失，IBM发布的《2018年数据泄露成本报告》中指出因数据泄露带来的成本平均高达386美元，而在2021年的最新报告中这一数字则达到了424万美元，在发生的超五千万条数据大型泄漏事件中这一数字则达到了惊人的4.01亿美元，并且报告指出这一数据每年正持续上涨<a href="#4">[4]</a><a href="#5">[5]</a>。近期我国《网络空间安全法》《个人信息保护法》的相继出台也引发热议，让隐私保护相关技术的发展成为当下研究的热点。</p>
 <h2 id="span-id_toc92459722隐私保护简介span"><a class="markdownIt-Anchor" href="#span-id_toc92459722隐私保护简介span"></a> <span id="_Toc92459722">隐私保护简介</span></h2>
-<p>隐私保护的概念是十分复杂的，涉及了多个领域。在MBA智库中隐私保护被定义为“使个人或集体等实体不愿意被外人知道的信息得到应有的保护<a href="#6">[6]</a>”。而在互联网时代，隐私保护的意义发生了细微的变化，例如在我国《个人信息保护法》中，个人信息被表述为“以电子或者其他方式记录的与已识别或者可识别的自然人有关的各种信息,不包括匿名化处理后的信息<a href="#7">[7]</a>”。在大数据技术，云计算技术发展的背景下，发展出了以匿名化脱敏化技术为基础延伸出的隐私保护计算技术（Privacy-preserving<br>
-computation<br>
+<p>隐私保护的概念是十分复杂的，涉及了多个领域。在MBA智库中隐私保护被定义为“使个人或集体等实体不愿意被外人知道的信息得到应有的保护<a href="#6">[6]</a>”。而在互联网时代，隐私保护的意义发生了细微的变化，例如在我国《个人信息保护法》中，个人信息被表述为“以电子或者其他方式记录的与已识别或者可识别的自然人有关的各种信息,不包括匿名化处理后的信息<a href="#7">[7]</a>”。在大数据技术，云计算技术发展的背景下，发展出了以匿名化脱敏化技术为基础延伸出的隐私保护计算技术（Privacy-preserving<br />
+computation<br />
 technology）、大数据隐私保护技术，基于区块链技术的数据隐私保护技术等。</p>
 <h1 id="span-id_toc92459723隐私保护计算技术span"><a class="markdownIt-Anchor" href="#span-id_toc92459723隐私保护计算技术span"></a> <span id="_Toc92459723">隐私保护计算技术</span></h1>
 <h2 id="span-id_toc92459724隐私保护计算概念span"><a class="markdownIt-Anchor" href="#span-id_toc92459724隐私保护计算概念span"></a> <span id="_Toc92459724">隐私保护计算概念</span></h2>
-<p>隐私保护计算可以简单认为隐私计算是一种“在黑箱中进行的数据分析计算并以黑箱形式传递的数据挖掘技术”。在行业内，根据中国信息通信研究院发布的《隐私保护计算技术研究报告》定义，隐私保护计算技术是指“在提供隐私保护的前提下，实现数据价值挖掘的技术体系[8]”。这项技术使得数据在加密状态下下、完全或半匿名状态、非透明状态下依然能够被计算发掘，如此一来在《个人信息保护法》规定的“个人信息”（不包括匿名化处理后的信息）范围内对用户信息进行处理成为可能。在完美契合法律的同时，这项技术也同时达到了隐私数据保护的目的，因为参与计算的数据处于加密或者匿名状态，计算中被盗取利用的可能性大大降低。这真正实现了“end<br>
+<p>隐私保护计算可以简单认为隐私计算是一种“在黑箱中进行的数据分析计算并以黑箱形式传递的数据挖掘技术”。在行业内，根据中国信息通信研究院发布的《隐私保护计算技术研究报告》定义，隐私保护计算技术是指“在提供隐私保护的前提下，实现数据价值挖掘的技术体系[8]”。这项技术使得数据在加密状态下下、完全或半匿名状态、非透明状态下依然能够被计算发掘，如此一来在《个人信息保护法》规定的“个人信息”（不包括匿名化处理后的信息）范围内对用户信息进行处理成为可能。在完美契合法律的同时，这项技术也同时达到了隐私数据保护的目的，因为参与计算的数据处于加密或者匿名状态，计算中被盗取利用的可能性大大降低。这真正实现了“end<br />
 to end”式的数据分析环境，做到“数据可用不可见”<a href="#8">[8]</a><a href="#9">[9]</a>。</p>
 <h2 id="span-id_toc92459725隐私保护计算架构span"><a class="markdownIt-Anchor" href="#span-id_toc92459725隐私保护计算架构span"></a> <span id="_Toc92459725">隐私保护计算架构</span></h2>
 <p>计算架构由三部分组成<a href="#8">[8]</a>：</p>
@@ -264,9 +258,11 @@ to end”式的数据分析环境，做到“数据可用不可见”<a href="#8
 <p>2.数据计算方，将大量数据以加密方式进行计算。这一方为算力提供方，可以是云计算服务平台。这一部分将数据计算的结果转交给数据获取方</p>
 <p>3.数据获取方，这一部分负责接受加密的匿名的数据结果。</p>
 <p>以下为中文及外文架构图</p>
-<p><img src="/.io//d571480b4d7bcb4dbcbe74838b003.png" alt="Figure 1"></p>
+<!-- ![Figure 1](隐私保护技术\d571480b4d7bcb4dbcbe74838b003.png) -->
+
 <p>Figure 1<a href="#8">[8]</a></p>
-<p><img src="/.io//bff5210d08014abafe442901b26e3b5e.png" alt="Figure 2"></p>
+<!-- ![Figure 2](隐私保护技术\bff5210d08014abafe442901b26e3b5e.png) -->
+
 <p>Figure 2<a href="#9">[9]</a></p>
 <h2 id="span-id_toc92459726隐私保护计算关键技术span"><a class="markdownIt-Anchor" href="#span-id_toc92459726隐私保护计算关键技术span"></a> <span id="_Toc92459726">隐私保护计算关键技术</span></h2>
 <h3 id="同态加密"><a class="markdownIt-Anchor" href="#同态加密"></a> 同态加密</h3>
@@ -275,9 +271,9 @@ to end”式的数据分析环境，做到“数据可用不可见”<a href="#8
 <ol>
 <li>差分隐私产生背景</li>
 </ol>
-<p>在差分隐私产生前，主流的数据隐私保护方法为k-anonymity及后发展出的l-diversity等隐私保护模型<a href="#11">[11]</a>。但这些隐私保护模型都不能提供足够安全的防护，这些模型在各种新型攻击的产生下都需要进行完善改进，例如针对k-anonymity的一致性攻击（homogeneity<br>
-attack）、背景知识攻击（background knowledge<br>
-attack）和针对l-diversity的相似性攻击（similarity<br>
+<p>在差分隐私产生前，主流的数据隐私保护方法为k-anonymity及后发展出的l-diversity等隐私保护模型<a href="#11">[11]</a>。但这些隐私保护模型都不能提供足够安全的防护，这些模型在各种新型攻击的产生下都需要进行完善改进，例如针对k-anonymity的一致性攻击（homogeneity<br />
+attack）、背景知识攻击（background knowledge<br />
+attack）和针对l-diversity的相似性攻击（similarity<br />
 attack）<a href="#11">[11]</a>。同时这些模型也不能提供有效的方法严格证明其安全性，这对实际运用时评估其保护水平十分不利，大大降低了可靠性<a href="#12">[12]</a>。这两方面的问题根本原因都在于此前的模型都对于攻击者没有建立一个严格的模型，这些模型的安全水平却都与攻击者掌握的“情报”水平密切相关。因此一个对攻击者模型具有严格定义且能在攻击者掌握最大“情报”的条件下依然能抵抗攻击的隐私保护技术将能真正解决这些缺陷。差分隐私应运而生。</p>
 <ol>
 <li>差分隐私特点</li>
@@ -287,7 +283,8 @@ attack）<a href="#11">[11]</a>。同时这些模型也不能提供有效的方�
 <p>联邦学习最早于2006年由谷歌的H.Brendan McMahan等人提出。</p>
 <p>联邦学习是一种基于分布式机器学习的技术。通过中央服务器的综合协调，对加密数据进行流通处理，最终实现语言预测模型更新。在具体实现上，就是几个部分不断重复的过程。首先多个客户终端下载预测模型，然后使用本地数据进行机器学习进行模型更新，然后将更新后的模型上传至中央服务器。而中央服务器则负责将多个终端上传的模型进行融合优化，产生新的预测模型。最后多个客户终端下载预测模型，如此重复操作，达到模型不断更新的目的。这种技术的安全性最大的保障就在于隐私数据一直储存在本地而非上传至云端，从根本上避免了数据泄露的可能性。</p>
 <p>参考架构如图</p>
-<p><img src="/.io//3e076bcd17eff25b2e6b8464ad986c5d.png" alt="Figure 3"></p>
+<!-- ![Figure 3](隐私保护技术\3e076bcd17eff25b2e6b8464ad986c5d.png) -->
+
 <p>Figure 3<a href="#8">[8]</a></p>
 <h3 id="安全多方计算"><a class="markdownIt-Anchor" href="#安全多方计算"></a> 安全多方计算</h3>
 <p>安全多方计算技术最早在1982年由图灵奖获得者、中国科学院院士姚期智正式提出。</p>
@@ -316,7 +313,8 @@ attack）<a href="#11">[11]</a>。同时这些模型也不能提供有效的方�
 <h2 id="span-id_toc92459727隐私计算技术的综合评价span"><a class="markdownIt-Anchor" href="#span-id_toc92459727隐私计算技术的综合评价span"></a> <span id="_Toc92459727">隐私计算技术的综合评价</span></h2>
 <p>综合评价主要评估了保护效果、计算代价、计算精度、商用场景等几个方面。评价结果如图所示。</p>
 <p>表格参考《隐私保护计算研究报告（2020）》</p>
-<p><img src="/.io//c12882fc3ca827ac8aeb18cb6210e6ba.png" alt="Figure 4"></p>
+<!--![Figure 4](隐私保护技术\c12882fc3ca827ac8aeb18cb6210e6ba.png)-->
+
 <p>Figure 4<a href="#8">[8]</a></p>
 <h1 id="span-id_toc92459728总结与展望span"><a class="markdownIt-Anchor" href="#span-id_toc92459728总结与展望span"></a> <span id="_Toc92459728">总结与展望</span></h1>
 <h2 id="span-id_toc92459729全文总结span"><a class="markdownIt-Anchor" href="#span-id_toc92459729全文总结span"></a> <span id="_Toc92459729">全文总结</span></h2>
@@ -330,7 +328,7 @@ attack）<a href="#11">[11]</a>。同时这些模型也不能提供有效的方�
 <p><span id="1">1</span>. 李一兵,王建华.Internet，美国互联网发展概况[J].山东科学,1996(02):67.</p>
 <p><span id="2">2</span>. 董小英,陈燕.Internet引发的社会问题[J].情报理论与实践,1995(04):40-44.DOI:10.16353/j.cnki.1000-7490.1995.04.012.</p>
 <p><span id="3">3</span>. 刘钢,李敬革.网络安全与安全评估[J].信息系统工程,1997(04):38-39.</p>
-<p><span id="4">4</span>. URL:<br>
+<p><span id="4">4</span>. URL:<br />
 <a target="_blank" rel="noopener" href="https://public.dhe.ibm.com/software/cn/downloads/pdfs/2018-global-codb-report_06271811_55017055CNZH_final.pdf">https://public.dhe.ibm.com/software/cn/downloads/pdfs/2018-global-codb-report_06271811_55017055CNZH_final.pdf</a></p>
 <p><span id="5">5</span>. URL：<a target="_blank" rel="noopener" href="http://www.sicsi.org.cn/Upload/ueditor_file/ueditor/20211231/1640943375438233.pdf">http://www.sicsi.org.cn/Upload/ueditor_file/ueditor/20211231/1640943375438233.pdf</a></p>
 <p><span id="6">6</span>. URL: <a target="_blank" rel="noopener" href="https://wiki.mbalib.com/wiki/%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4">https://wiki.mbalib.com/wiki/隐私保护</a></p>
@@ -341,9 +339,9 @@ attack）<a href="#11">[11]</a>。同时这些模型也不能提供有效的方�
 <p><span id="12">12</span>. 李杨,温雯,谢光强.差分隐私保护研究综述[J].计算机应用研究,2012,29(09):3201-3205+3211.</p>
 <p><span id="13">13</span>. 熊平,朱天清,王晓峰.差分隐私保护及其应用[J].计算机学报,2014,37(01):101-122.</p>
 <p><span id="14">14</span>. 孙茂华. 安全多方计算及其应用研究[D].北京邮电大学,2013.</p>
-<p><span id="15">15</span>. Chuan Zhao, Shengnan Zhao, Minghao Zhao, Zhenxiang Chen, Chong-Zhi Gao,<br>
-Hongwei Li, Yu-an Tan,Secure Multi-Party Computation: Theory, practice and<br>
-applications,Information Sciences,Volume 476,2019,Pages 357-372,ISSN<br>
+<p><span id="15">15</span>. Chuan Zhao, Shengnan Zhao, Minghao Zhao, Zhenxiang Chen, Chong-Zhi Gao,<br />
+Hongwei Li, Yu-an Tan,Secure Multi-Party Computation: Theory, practice and<br />
+applications,Information Sciences,Volume 476,2019,Pages 357-372,ISSN<br />
 0020-0255, DOI:10.1016/j.ins.2018.10.024.</p>
 
     </div>
